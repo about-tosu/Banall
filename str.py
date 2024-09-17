@@ -18,7 +18,7 @@ Add Me There And I will Ruined Group 👻!__
 **My lib's Info!**
 ❍ Python Version » `{}`
 ❍ Telethon Version » `{}`
-❍ Code Owner » [Aadil](https://t.me/aadillllll)
+❍ Code Owner » [𝙏𝙤𝙎𝙪❤‍🩹](https://t.me/its_damiann)
 
 Type /help For Commands!
 """
@@ -31,7 +31,7 @@ __This Is BanAll Bot\nOnly My Owner Can Access This Bot👻!__
 **My lib's Info!**
 ❍ Python Version » `{}`
 ❍ Telethon Version » `{}`
-❍ Code Owner » [ＹＯUＲ ＣＲUＳＨ،"(💛](https://t.me/aadillllll)
+❍ Code Owner » [ＹＯUＲ ＣＲUＳＨ،"(💛](https://t.me/its_damiann)
 """
 
 hlptxt = """ Meow [{}](tg://user?id={}),
@@ -44,5 +44,5 @@ __Here is the help menu__:
 ❅ /leave - To leave group.
 ❅ /restart - To restart the bot.
 
-❍ Facing any kind of issue then just join @crushbot_support and ask there!!
+❍ Facing any kind of issue then just join @about_tosuu and ask there!!
 """
